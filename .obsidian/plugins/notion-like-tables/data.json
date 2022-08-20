@@ -1,0 +1,128 @@
+{
+  "appData": {},
+  "state": {
+    "README.md": {
+      "0": {
+        "data": {
+          "headers": [
+            {
+              "id": "c3fdd495-5434-4fb7-8306-8feabc63d151",
+              "content": "Index",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "fb2580b5-e439-43f0-b2e9-f1955b33fe2f",
+              "content": "Difficulty",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "10110f83-7d3e-45fd-aff9-69e9302294de",
+              "content": "Question",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            },
+            {
+              "id": "58cf92da-ae5c-4813-a27d-0516faf34b9a",
+              "content": "Status",
+              "sortDir": "default",
+              "width": "100px",
+              "shouldWrapOverflow": true,
+              "useAutoWidth": false,
+              "type": "text"
+            }
+          ],
+          "rows": [
+            {
+              "id": "0639b198-bbcf-4b63-b1de-56ad9e47fc8a",
+              "initialIndex": 0,
+              "creationTime": 1660981727793
+            },
+            {
+              "id": "fed44618-2a79-440a-a70b-6b7ad16a6d7d",
+              "initialIndex": 1,
+              "creationTime": 1660981728675
+            }
+          ],
+          "cells": [
+            {
+              "id": "0d3a5ee6-0ae7-427e-b06a-b51f6e0c3ae2",
+              "rowId": "0639b198-bbcf-4b63-b1de-56ad9e47fc8a",
+              "headerId": "c3fdd495-5434-4fb7-8306-8feabc63d151",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "d51d272e-23ad-4c81-916c-9746a4950ba3",
+              "rowId": "0639b198-bbcf-4b63-b1de-56ad9e47fc8a",
+              "headerId": "fb2580b5-e439-43f0-b2e9-f1955b33fe2f",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "dd07ffc4-5c1e-4a96-bd0d-9fd618d947d8",
+              "rowId": "0639b198-bbcf-4b63-b1de-56ad9e47fc8a",
+              "headerId": "10110f83-7d3e-45fd-aff9-69e9302294de",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "7b673a6d-ec2a-4bec-b5ae-d9e5d57d8932",
+              "rowId": "0639b198-bbcf-4b63-b1de-56ad9e47fc8a",
+              "headerId": "58cf92da-ae5c-4813-a27d-0516faf34b9a",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "78c68211-2e3b-4503-b390-7368f620c5d6",
+              "rowId": "fed44618-2a79-440a-a70b-6b7ad16a6d7d",
+              "headerId": "c3fdd495-5434-4fb7-8306-8feabc63d151",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "084eef36-fc86-4e31-b6a8-7b9ff615dc90",
+              "rowId": "fed44618-2a79-440a-a70b-6b7ad16a6d7d",
+              "headerId": "fb2580b5-e439-43f0-b2e9-f1955b33fe2f",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "6dca9a0a-96ec-4486-89b7-050d88e3fe07",
+              "rowId": "fed44618-2a79-440a-a70b-6b7ad16a6d7d",
+              "headerId": "10110f83-7d3e-45fd-aff9-69e9302294de",
+              "type": "text",
+              "text": ""
+            },
+            {
+              "id": "6b14af68-681c-4f1c-9988-ea154fcab0d1",
+              "rowId": "fed44618-2a79-440a-a70b-6b7ad16a6d7d",
+              "headerId": "58cf92da-ae5c-4813-a27d-0516faf34b9a",
+              "type": "text",
+              "text": ""
+            }
+          ],
+          "tags": []
+        },
+        "viewType": "live-preview",
+        "shouldUpdate": true,
+        "tableCacheVersion": 425
+      }
+    }
+  },
+  "focusedElement": {
+    "id": "-1",
+    "type": "unfocused"
+  },
+  "excludedFiles": []
+}
