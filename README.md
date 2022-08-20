@@ -1,6 +1,6 @@
 # ps 
 
-* [Obsidian]('https://obsidian.md/')을 이용하여 기록 및 관리
+* [Obsidian](https://obsidian.md/)을 이용하여 기록 및 관리
 	* 해당 repo를 iClound에 업로드하여 다른 기종에서도 연동이 가능
 
 
