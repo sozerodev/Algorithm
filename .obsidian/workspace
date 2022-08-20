@@ -4,14 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "256cb71f82caaae5",
+        "id": "da3ee34df97db4a6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "diff-view",
           "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
+            "file": "Algorithm/Python_Algorithm_Interview/README.md",
+            "staged": false
           }
         }
       }
@@ -77,7 +76,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +113,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -134,12 +129,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 361.5
+    "width": 474.5
   },
-  "active": "256cb71f82caaae5",
+  "active": "05930fab3b7ebb46",
   "lastOpenFiles": [
-    "Algorithm/Python_Algorithm_Interview/README.md",
     "README.md",
-    "Python_Algorithm_Interview/README.md"
+    "Python_Algorithm_Interview/README.md",
+    "Algorithm/Python_Algorithm_Interview/README.md"
   ]
 }
