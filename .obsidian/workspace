@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "247077ad7317ec34",
+        "id": "9629b813b42e656b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Python_Algorithm_Interview/README.md",
+            "file": "mySettings/algorithmTemplate.md",
             "mode": "source",
             "source": false
           }
@@ -27,24 +27,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a9d76e03c932b20",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "3be0e5ac513955ac",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
@@ -56,12 +48,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "2ebc7a99f6c4baa0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 262.5
   },
   "right": {
     "id": "721a0a89f14786eb",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python_Algorithm_Interview/README.md",
+                "file": "mySettings/algorithmTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python_Algorithm_Interview/README.md",
+                "file": "mySettings/algorithmTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python_Algorithm_Interview/README.md"
+                "file": "mySettings/algorithmTemplate.md"
               }
             }
           },
@@ -134,10 +135,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 369.5
   },
-  "active": "3a9d76e03c932b20",
+  "active": "9629b813b42e656b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "mySettings/algorithmTemplate.md",
+    "BOJ/무제노트.md",
+    "().md",
     "README.md",
     "Python_Algorithm_Interview/README.md",
     "Algorithm/Python_Algorithm_Interview/README.md"
