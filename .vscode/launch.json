@@ -1,0 +1,16 @@
+{
+    // input.txt 는 input 될 값을 넣음
+    // output.txt는 결과가 출력되는 파일
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: 현재 파일",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["<", "./mySettings/input.txt", ">", "./mySettings/output.txt"]
+        }
+    ]
+}
