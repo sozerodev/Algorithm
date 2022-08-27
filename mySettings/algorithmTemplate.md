@@ -1,9 +1,7 @@
 # [{site name} : {number}]()
 
-<b>
 Date: {{date}}  </br>
 Difficulty: 
-</b>
 
 ---
 

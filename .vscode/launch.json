@@ -4,13 +4,24 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "mypy: 타입체크",
+            "type": "python",
+            "request": "launch",
+            "module": "mypy",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": ["${file}","<", "${fileDirname}/input.txt", ">", "${fileDirname}/output.txt"]
+        },
+        {
             "name": "Python: 현재 파일",
             "type": "python",
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true,
-            "args": ["<", "./mySettings/input.txt", ">", "./mySettings/output.txt"]
+            "args": ["<", "${fileDirname}/input.txt", ">", "${fileDirname}/output.txt"]
         }
     ]
 }
+
+

@@ -25,3 +25,11 @@
 - [ ] LeetCode
 - [ ] Baekjoon, Codeforce, Codibility, HackerRank...
 
+
+
+## requirements.txt
+```
+mypy===0.971
+mypy-extensions===0.4.3 
+
+```
