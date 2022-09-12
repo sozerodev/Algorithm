@@ -20,6 +20,14 @@
             "console": "integratedTerminal",
             "justMyCode": true,
             "args": ["<", "${fileDirname}/input.txt", ">", "${fileDirname}/output.txt"]
+        },
+        {
+            "name": "Python: 기본 실행 파일",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
         }
     ]
 }
