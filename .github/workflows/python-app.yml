@@ -33,5 +33,5 @@ jobs:
         git diff
         git config --local user.email "sozerodev@gmail.com"
         git config --local user.name "sozerodev"
-        git commit -m ":smiley: Update README.md file"
+        git commit -m "Update README.md file"
         git push
