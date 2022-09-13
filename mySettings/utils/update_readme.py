@@ -41,7 +41,7 @@ def make_info(files_info, total_file_count):
 def make_read_me(files_info):
     site_info = ""
     for site in files_info.keys():
-        site_info += f"</br></br> \n## {site}(<i>{files_info[site].get('question_cnt')}</i> 문제 진행) </br>"
+        site_info += f"</br></br>\n ## {site}(<i>{files_info[site].get('question_cnt')}</i> 문제 진행) </br>"
 
         site_info += "\n | Index | Difficulty |"
         site_info += "\n | ----- | ----- |"
@@ -53,11 +53,12 @@ def make_read_me(files_info):
                 site_info += f"\n | [{key}]({value}) | {difficulty} |"
 
         
-        site_info += "\n"
+        site_info += "</br></br> \n\n"
     
 
 
     return f"""
+
 # ps 
 
 * [Obsidian](https://obsidian.md/)을 이용하여 기록 및 관리
