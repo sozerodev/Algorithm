@@ -1,4 +1,5 @@
 
+
 # ps 
 
 * [Obsidian](https://obsidian.md/)을 이용하여 기록 및 관리
@@ -9,17 +10,18 @@
 
 
 ### last update
-- 2022-09-13 05:22:23
+- 2022-09-13 05:29:49
 
 
 
-</br></br> 
-## 프로그래머스(<i>1</i> 문제 진행) </br>
+</br></br>
+ ## 프로그래머스(<i>1</i> 문제 진행) </br>
  | Index | Difficulty |
  | ----- | ----- |
- | [70128. 내적](./프로그래머스/lv1/70128. 내적/내적.py) | lv1 |
-</br></br> 
-## 백준(<i>7</i> 문제 진행) </br>
+ | [70128. 내적](./프로그래머스/lv1/70128. 내적/내적.py) | lv1 |</br></br> 
+
+</br></br>
+ ## 백준(<i>7</i> 문제 진행) </br>
  | Index | Difficulty |
  | ----- | ----- |
  | [1920. 수 찾기](./백준/Silver/1920. 수 찾기/수 찾기.py) | Silver |
@@ -28,13 +30,15 @@
  | [17389. 보너스 점수](./백준/Bronze/17389. 보너스 점수/보너스 점수.py) | Bronze |
  | [17269. 이름궁합 테스트](./백준/Bronze/17269. 이름궁합 테스트/이름궁합 테스트.py) | Bronze |
  | [15969. 행복](./백준/Bronze/15969. 행복/행복.py) | Bronze |
- | [20499. Darius님 한타 안 함？](./백준/Bronze/20499. Darius님 한타 안 함？/Darius님 한타 안 함？.py) | Bronze |
-</br></br> 
-## SamsungSWExpert(<i>2</i> 문제 진행) </br>
+ | [20499. Darius님 한타 안 함？](./백준/Bronze/20499. Darius님 한타 안 함？/Darius님 한타 안 함？.py) | Bronze |</br></br> 
+
+</br></br>
+ ## SamsungSWExpert(<i>2</i> 문제 진행) </br>
  | Index | Difficulty |
  | ----- | ----- |
  | [2072](./SamsungSWExpert/D1/2072/solution.py) | D1 |
- | [2071](./SamsungSWExpert/D1/2071/solution.py) | D1 |
+ | [2071](./SamsungSWExpert/D1/2071/solution.py) | D1 |</br></br> 
+
 
 
 
