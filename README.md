@@ -10,7 +10,7 @@
 
 
 ### last update
-- 2022-09-14 09:43:25
+- 2022-09-18 04:36:54
 
 
 
@@ -21,9 +21,10 @@
  | [70128. 내적](./프로그래머스/lv1/70128. 내적/내적.py) | lv1 |</br></br> 
 
 </br></br>
- ## 백준(<i>12</i> 문제 진행) </br>
+ ## 백준(<i>13</i> 문제 진행) </br>
  | Index | Difficulty |
  | ----- | ----- |
+ | [1074. Z](./백준/Silver/1074. Z/Z.py) | Silver |
  | [1920. 수 찾기](./백준/Silver/1920. 수 찾기/수 찾기.py) | Silver |
  | [25206. 너의 평점은](./백준/Silver/25206. 너의 평점은/너의 평점은.py) | Silver |
  | [9037. The candy war](./백준/Silver/9037. The candy war/The candy war.py) | Silver |
