@@ -1,6 +1,6 @@
-from datetime import datetime
-from pytz import timezone
+import time
 import os
+from datetime import datetime, timedelta, timezone
 
 # 사용하는 코딩 사이트 풀이를 모아놓은 폴더명 리스트 
 SITE = ["백준", "프로그래머스", "SamsungSWExpert", "thisIsCodingTest"]
@@ -57,6 +57,8 @@ def make_read_me(files_info):
         site_info += "</br></br> \n\n"
     
 
+    # str_utc = time.localtime(time.time())
+
 
     return f"""
 
@@ -64,7 +66,8 @@ def make_read_me(files_info):
 
 
 ### last update
-- {datetime.now(timezone('Asia/Seoul')).strftime('%Y-%m-%d %H:%M:%S')}
+- {convert_kst(datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S"))}
+
 
 </br>
 
@@ -118,6 +121,20 @@ mypy-extensions===0.4.3
 def update_readme():
     files_info = read_files_info()
     return make_read_me(files_info)
+
+
+def convert_kst(utc_string):
+	# datetime 값으로 변환
+	dt_tm_utc = datetime.strptime(utc_string,'%Y-%m-%d %H:%M:%S')
+	
+	# +9 시간
+	tm_kst = dt_tm_utc + timedelta(hours=9)
+	
+	# 일자 + 시간 문자열로 변환
+	str_datetime = tm_kst.strftime('%Y-%m-%d %H:%M:%S')
+	
+	return str_datetime
+
 
 
 if __name__ == "__main__":
