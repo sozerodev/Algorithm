@@ -1,16 +1,11 @@
 
 
-# ps 
+# PS (Problem Solving) 키우기
 
-* [Obsidian](https://obsidian.md/)을 이용하여 기록 및 관리
-    * 해당 repo를 iClound에 업로드하여 다른 기종에서도 연동이 가능
-
-
-<br/>
 
 
 ### last update
-- 2022-10-03 07:53:00
+- 2022-10-03 09:30:04
 
 
 
@@ -51,6 +46,12 @@
  | ----- | ----- |
  | [2072](./SamsungSWExpert/D1/2072/solution.py) | D1 |
  | [2071](./SamsungSWExpert/D1/2071/solution.py) | D1 |</br></br> 
+
+</br></br>
+ ## thisIsCodingTest(<i>1</i> 문제 진행) </br>
+ | Index | Difficulty |
+ | ----- | ----- |
+ | [음료수_얼려_먹기](./thisIsCodingTest/DFS_BFS/음료수_얼려_먹기/음료수_얼려_먹기.py) | DFS_BFS |</br></br> 
 
 
 
