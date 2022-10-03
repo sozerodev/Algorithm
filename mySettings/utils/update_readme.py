@@ -1,4 +1,4 @@
-from datetime import datetime
+import time
 import os
 
 # 사용하는 코딩 사이트 풀이를 모아놓은 폴더명 리스트 
@@ -62,9 +62,31 @@ def make_read_me(files_info):
 # PS (Problem Solving) 키우기
 
 
-
 ### last update
-- {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+- {time.strftime('%Y-%m-%d %H시 %M분 %S 초', time.localtime(time.time()))}
+
+
+</br>
+
+### 파이썬 알고리즘 스터디
+- 2022.10.03 ~  (진행중)
+
+    |   기간   | 주제 |
+    | -------- | --- |
+    | 10월 1주차 | bfs |
+    | 10월 2주차 | dfs |
+    | 10월 3주차 | 이진탐색|
+    | 10월 4주차 | 완전탐색&백트래킹 |
+    | 11월 1주차 | dp |
+    | 11월 2주차 | dp |
+    | 11월 3주차 | 다익스트라 |
+    | 11월 4주차 | 플로이드-와샬 |
+    | 12월 1주차 |  위상정렬   |
+    | 12월 2주차 |  bfs,dfs 고난이도  |
+    | 12월 3주차 |  카카오 기출  |
+
+
+
 
 
 
