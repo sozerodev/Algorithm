@@ -5,10 +5,11 @@ import sys
 from sys import stdin
 input = stdin.readline
 
-# bfs 를 쓸 때 필요함
+# dfs 를 쓸 때 필요함
 # sys.setrecursionlimit(10000)
 
 def solution():
+    print()
 
 
 if __name__ == '__main__': 
