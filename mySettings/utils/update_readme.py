@@ -1,4 +1,5 @@
-import time
+from datetime import datetime
+from pytz import timezone
 import os
 
 # 사용하는 코딩 사이트 풀이를 모아놓은 폴더명 리스트 
@@ -63,8 +64,7 @@ def make_read_me(files_info):
 
 
 ### last update
-- {time.strftime('%Y-%m-%d %H시 %M분 %S 초', time.localtime(time.time()))}
-
+- {datetime.now(timezone('Asia/Seoul')).strftime('%Y-%m-%d %H:%M:%S')}
 
 </br>
 
