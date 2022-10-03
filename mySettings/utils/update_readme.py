@@ -2,7 +2,7 @@ from datetime import datetime
 import os
 
 # 사용하는 코딩 사이트 풀이를 모아놓은 폴더명 리스트 
-SITE = ["백준", "프로그래머스", "SamsungSWExpert"]
+SITE = ["백준", "프로그래머스", "SamsungSWExpert", "thisIsCodingTest"]
 
 def read_files_info():
     directory_list = [directory for directory in os.listdir("./") if directory in SITE]
@@ -59,13 +59,8 @@ def make_read_me(files_info):
 
     return f"""
 
-# ps 
+# PS (Problem Solving) 키우기
 
-* [Obsidian](https://obsidian.md/)을 이용하여 기록 및 관리
-    * 해당 repo를 iClound에 업로드하여 다른 기종에서도 연동이 가능
-
-
-<br/>
 
 
 ### last update
