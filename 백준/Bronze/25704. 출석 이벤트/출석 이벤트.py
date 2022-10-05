@@ -18,6 +18,8 @@ def solution():
     if N > 19:
         dc_price.append(int(P//4))
 
+    # stamp의 개수가 없는 경우 dc_price = [] 빈 리스트가 된다.
+    # 이럴 경우 max([])을 하면 에러가 발생함. 그것때문에 if dc_price else 0 을 붙여주어야 하는 것
     dc_price_result = max(dc_price) if dc_price else 0
 
     if (P > dc_price_result):
