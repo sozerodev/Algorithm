@@ -3,7 +3,7 @@ import os
 from datetime import datetime, timedelta, timezone
 
 # 사용하는 코딩 사이트 풀이를 모아놓은 폴더명 리스트 
-SITE = ["백준", "프로그래머스", "SamsungSWExpert", "thisIsCodingTest"]
+SITE = ["백준", "프로그래머스", "LeetCode", "SamsungSWExpert", "thisIsCodingTest"]
 
 def read_files_info():
     directory_list = [directory for directory in os.listdir("./") if directory in SITE]
