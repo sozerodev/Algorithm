@@ -4,7 +4,7 @@
 
 
 ### last update
-- 2022-10-10 21:35:20
+- 2022-10-10 21:38:35
 
 
 </br>
@@ -30,6 +30,12 @@
 
 
 
+
+</br></br>
+ ## LeetCode(<i>1</i> 문제 진행) </br>
+ | Index | Difficulty |
+ | ----- | ----- |
+ | [2235-add-two-integers](./LeetCode/Easy/2235-add-two-integers/2235-add-two-integers.py) | Easy |</br></br> 
 
 </br></br>
  ## 프로그래머스(<i>2</i> 문제 진행) </br>
