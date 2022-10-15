@@ -16,9 +16,6 @@ def solution():
     N = int(input())
     paint = [list(input().strip()) for _ in range(N)]
 
-    # 정상, 적록색약
-    normal, abnormal = 0, 0
-
     # 정상
     visit = [[0] * N for _ in range(N)]
     cnt = 0

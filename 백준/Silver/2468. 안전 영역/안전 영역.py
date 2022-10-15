@@ -17,7 +17,7 @@ def solution():
     region = [list(map(int, input().split())) for _ in range(N)]
 
     # 2. 높이가 가장 낮은 지역과 높은 지역 구하기
-    min_height, max_height = 100, 1 # 높이는 1이상, 100이하의 정수
+    min_height, max_height = 100, 1 # 높이는 1이상, 100이하의 정수 (조건에 높이는 1이상, 100이하)
     for i in range(N):
         for j in range(N):
             min_height = min(min_height, region[i][j])
