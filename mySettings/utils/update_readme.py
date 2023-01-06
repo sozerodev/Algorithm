@@ -72,7 +72,7 @@ def make_read_me(files_info):
 </br>
 
 ### 파이썬 알고리즘 스터디
-- 2022.10.03 ~  (진행중)
+- 2022.10.03 ~  (야근중단..)
 
     |   기간   | 주제 | 진행상황 |
     | -------- | --- | ----- |
@@ -113,6 +113,10 @@ mypy===0.971
 mypy-extensions===0.4.3 
 
 ```
+
+## etc
+uploaded by [LeetHub](https://github.com/QasimWani/LeetHub), [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub)
+
 
 
 """
