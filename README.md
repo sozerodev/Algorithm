@@ -4,7 +4,7 @@
 
 
 ### last update
-- 2023-01-05 22:27:33
+- 2023-01-06 13:39:13
 
 
 </br>
@@ -82,9 +82,10 @@
  | [음료수_얼려_먹기](./thisIsCodingTest/DFS_BFS/음료수_얼려_먹기/음료수_얼려_먹기.py) | DFS_BFS |</br></br> 
 
 </br></br>
- ## LeetCode(<i>2</i> 문제 진행) </br>
+ ## LeetCode(<i>3</i> 문제 진행) </br>
  | Index | Difficulty |
  | ----- | ----- |
+ | [1491-average-salary-excluding-the-minimum-and-maximum-salary](./LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/1491-average-salary-excluding-the-minimum-and-maximum-salary.py) | Easy |
  | [1523-count-odd-numbers-in-an-interval-range](./LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.py) | Easy |
  | [2235-add-two-integers](./LeetCode/Easy/2235-add-two-integers/2235-add-two-integers.py) | Easy |</br></br> 
 
