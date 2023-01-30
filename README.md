@@ -4,13 +4,14 @@
 
 
 ### last update
-- 2023-01-30 14:35:07
+- 2023-01-30 14:37:29
 
 
 </br>
 
-### 자료구조 정리 (계속 업데이트 예정)
-[필기](https://typeerror.notion.site/e41b98ea18ae4db2b385558f2d018c9f)
+### [자료구조 정리](https://typeerror.notion.site/e41b98ea18ae4db2b385558f2d018c9f)
+
+</br>
 
 ### 파이썬 알고리즘 스터디
 - 2022.10.03 ~  (야근중단..)
