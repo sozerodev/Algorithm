@@ -71,6 +71,9 @@ def make_read_me(files_info):
 
 </br>
 
+### 자료구조 정리 (계속 업데이트 예정)
+[필기](https://typeerror.notion.site/e41b98ea18ae4db2b385558f2d018c9f)
+
 ### 파이썬 알고리즘 스터디
 - 2022.10.03 ~  (야근중단..)
 
