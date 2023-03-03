@@ -4,7 +4,7 @@
 
 
 ### last update
-- 2023-03-03 13:40:50
+- 2023-03-03 13:51:24
 
 
 </br>
@@ -49,7 +49,7 @@
  | [음료수_얼려_먹기](./thisIsCodingTest/DFS_BFS/음료수_얼려_먹기/음료수_얼려_먹기.py) | DFS_BFS |</br></br> 
 
 </br></br>
- ## 백준(<i>26</i> 문제 진행) </br>
+ ## 백준(<i>27</i> 문제 진행) </br>
  | Index | Difficulty |
  | ----- | ----- |
  | [1932. 정수 삼각형](./백준/Silver/1932. 정수 삼각형/정수 삼각형.py) | Silver |
@@ -71,6 +71,7 @@
  | [16769. Mixing Milk](./백준/Bronze/16769. Mixing Milk/Mixing Milk.py) | Bronze |
  | [20499. Darius님 한타 안 함？](./백준/Bronze/20499. Darius님 한타 안 함？/Darius님 한타 안 함？.py) | Bronze |
  | [10539. 수빈이와 수열](./백준/Bronze/10539. 수빈이와 수열/수빈이와 수열.py) | Bronze |
+ | [2558. A＋B － 2](./백준/Bronze/2558. A＋B － 2/A＋B － 2.py) | Bronze |
  | [25704. 출석 이벤트](./백준/Bronze/25704. 출석 이벤트/출석 이벤트.py) | Bronze |
  | [15969. 행복](./백준/Bronze/15969. 행복/행복.py) | Bronze |
  | [17269. 이름궁합 테스트](./백준/Bronze/17269. 이름궁합 테스트/이름궁합 테스트.py) | Bronze |
