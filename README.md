@@ -4,7 +4,7 @@
 
 
 ### last update
-- 2023-03-03 14:25:45
+- 2023-03-03 14:27:42
 
 
 </br>
@@ -50,7 +50,7 @@
  | [음료수_얼려_먹기](./thisIsCodingTest/DFS_BFS/음료수_얼려_먹기/음료수_얼려_먹기.py) | DFS_BFS |</br></br> 
 
 </br></br>
- ## 백준(<i>30</i> 문제 진행) </br>
+ ## 백준(<i>31</i> 문제 진행) </br>
  | Index | Difficulty |
  | ----- | ----- |
  | [1932. 정수 삼각형](./백준/Silver/1932. 정수 삼각형/정수 삼각형.py) | Silver |
@@ -79,6 +79,7 @@
  | [15969. 행복](./백준/Bronze/15969. 행복/행복.py) | Bronze |
  | [10953. A＋B － 6](./백준/Bronze/10953. A＋B － 6/A＋B － 6.py) | Bronze |
  | [17269. 이름궁합 테스트](./백준/Bronze/17269. 이름궁합 테스트/이름궁합 테스트.py) | Bronze |
+ | [11021. A＋B － 7](./백준/Bronze/11021. A＋B － 7/A＋B － 7.py) | Bronze |
  | [17224. APC는 왜 서브태스크 대회가 되었을까？](./백준/Bronze/17224. APC는 왜 서브태스크 대회가 되었을까？/APC는 왜 서브태스크 대회가 되었을까？.py) | Bronze |
  | [20953. 고고학자 예린](./백준/Bronze/20953. 고고학자 예린/고고학자 예린.py) | Bronze |
  | [2557. Hello World](./백준/Bronze/2557. Hello World/Hello World.py) | Bronze |
