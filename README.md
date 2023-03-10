@@ -4,7 +4,7 @@
 
 
 ### last update
-- 2023-03-10 16:21:24
+- 2023-03-10 16:25:34
 
 
 </br>
@@ -37,7 +37,7 @@
 
 
 </br></br>
- ## 백준(<i>41</i> 문제 진행) </br>
+ ## 백준(<i>42</i> 문제 진행) </br>
  | Index | Difficulty |
  | ----- | ----- |
  | [20953. 고고학자 예린](./백준/Bronze/20953. 고고학자 예린/고고학자 예린.py) | Bronze |
@@ -55,6 +55,7 @@
  | [8393. 합](./백준/Bronze/8393. 합/합.py) | Bronze |
  | [16769. Mixing Milk](./백준/Bronze/16769. Mixing Milk/Mixing Milk.py) | Bronze |
  | [1924. 2007년](./백준/Bronze/1924. 2007년/2007년.py) | Bronze |
+ | [10818. 최소， 최대](./백준/Bronze/10818. 최소， 최대/최소， 최대.py) | Bronze |
  | [11718. 그대로 출력하기](./백준/Bronze/11718. 그대로 출력하기/그대로 출력하기.py) | Bronze |
  | [15596. 정수 N개의 합](./백준/Bronze/15596. 정수 N개의 합/정수 N개의 합.py) | Bronze |
  | [2557. Hello World](./백준/Bronze/2557. Hello World/Hello World.py) | Bronze |
