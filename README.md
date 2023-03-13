@@ -4,7 +4,7 @@
 
 
 ### last update
-- 2023-03-13 14:13:37
+- 2023-03-13 15:01:30
 
 
 </br>
@@ -37,7 +37,7 @@
 
 
 </br></br>
- ## 백준(<i>44</i> 문제 진행) </br>
+ ## 백준(<i>44</i> 문제 진행, Bronze:29 Silver:13 Gold:2 ) </br>
  | Index | Difficulty |
  | ----- | ----- |
  | [20953. 고고학자 예린](./백준/Bronze/20953. 고고학자 예린/고고학자 예린.py) | Bronze |
@@ -86,10 +86,21 @@
  | [9037. The candy war](./백준/Silver/9037. The candy war/The candy war.py) | Silver |</br></br> 
 
 </br></br>
- ## thisIsCodingTest(<i>1</i> 문제 진행) </br>
+ ## 프로그래머스(<i>2</i> 문제 진행) </br>
  | Index | Difficulty |
  | ----- | ----- |
- | [음료수_얼려_먹기](./thisIsCodingTest/DFS_BFS/음료수_얼려_먹기/음료수_얼려_먹기.py) | DFS_BFS |</br></br> 
+ | [42576. 완주하지 못한 선수](./프로그래머스/lv1/42576. 완주하지 못한 선수/완주하지 못한 선수.py) | lv1 |
+ | [70128. 내적](./프로그래머스/lv1/70128. 내적/내적.py) | lv1 |</br></br> 
+
+</br></br>
+ ## LeetCode(<i>5</i> 문제 진행, Easy:5 ) </br>
+ | Index | Difficulty |
+ | ----- | ----- |
+ | [1491-average-salary-excluding-the-minimum-and-maximum-salary](./LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/1491-average-salary-excluding-the-minimum-and-maximum-salary.py) | Easy |
+ | [1523-count-odd-numbers-in-an-interval-range](./LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.py) | Easy |
+ | [0191-number-of-1-bits](./LeetCode/Easy/0191-number-of-1-bits/0191-number-of-1-bits.py) | Easy |
+ | [2235-add-two-integers](./LeetCode/Easy/2235-add-two-integers/2235-add-two-integers.py) | Easy |
+ | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](./LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.py) | Easy |</br></br> 
 
 </br></br>
  ## SamsungSWExpert(<i>2</i> 문제 진행) </br>
@@ -99,21 +110,10 @@
  | [2071](./SamsungSWExpert/D1/2071/solution.py) | D1 |</br></br> 
 
 </br></br>
- ## 프로그래머스(<i>2</i> 문제 진행) </br>
+ ## thisIsCodingTest(<i>1</i> 문제 진행) </br>
  | Index | Difficulty |
  | ----- | ----- |
- | [42576. 완주하지 못한 선수](./프로그래머스/lv1/42576. 완주하지 못한 선수/완주하지 못한 선수.py) | lv1 |
- | [70128. 내적](./프로그래머스/lv1/70128. 내적/내적.py) | lv1 |</br></br> 
-
-</br></br>
- ## LeetCode(<i>5</i> 문제 진행) </br>
- | Index | Difficulty |
- | ----- | ----- |
- | [1491-average-salary-excluding-the-minimum-and-maximum-salary](./LeetCode/Easy/1491-average-salary-excluding-the-minimum-and-maximum-salary/1491-average-salary-excluding-the-minimum-and-maximum-salary.py) | Easy |
- | [1523-count-odd-numbers-in-an-interval-range](./LeetCode/Easy/1523-count-odd-numbers-in-an-interval-range/1523-count-odd-numbers-in-an-interval-range.py) | Easy |
- | [0191-number-of-1-bits](./LeetCode/Easy/0191-number-of-1-bits/0191-number-of-1-bits.py) | Easy |
- | [2235-add-two-integers](./LeetCode/Easy/2235-add-two-integers/2235-add-two-integers.py) | Easy |
- | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](./LeetCode/Easy/1281-subtract-the-product-and-sum-of-digits-of-an-integer/1281-subtract-the-product-and-sum-of-digits-of-an-integer.py) | Easy |</br></br> 
+ | [음료수_얼려_먹기](./thisIsCodingTest/DFS_BFS/음료수_얼려_먹기/음료수_얼려_먹기.py) | DFS_BFS |</br></br> 
 
 
 
