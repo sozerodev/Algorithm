@@ -25,6 +25,19 @@ def read_files_info():
 
         files_info[directory]["question_cnt"] = question_cnt
 
+        # 난이도별 풀이 개수 추가
+        files_info[directory]["level"] = {}
+        if directory == "LeetCode":
+            for level in ["Easy", "Medium", "Hard"]:
+                try:
+                    files_info[directory]["level"][level] = len(os.listdir(f"./{directory}/{level}"))
+                except:
+                    pass
+                
+        elif directory == "백준":
+            for level in ["Bronze", "Silver","Gold"]:
+                files_info[directory]["level"][level] = len(os.listdir(f"./{directory}/{level}"))
+
     return files_info
   
 
@@ -41,8 +54,17 @@ def make_info(files_info, total_file_count):
 
 def make_read_me(files_info):
     site_info = ""
-    for site in files_info.keys():
-        site_info += f"</br></br>\n ## {site}(<i>{files_info[site].get('question_cnt')}</i> 문제 진행) </br>"
+    # for site in files_info.keys(): # 이거나 밑에나 둘다 같지만 그냥 순서를 내맘대로 해주고싶어서 밑에껄로 바꿈
+    for site in SITE:
+        if len(files_info[site].get('level')) > 0:
+            site_info += f"</br></br>\n ## {site}(<i>{files_info[site].get('question_cnt')}</i> 문제 진행, "
+            
+            for level in files_info[site].get('level').keys():
+                site_info += f"{level}:{files_info[site].get('level').get(level)} "
+            site_info += ") </br>"
+        else:
+            site_info += f"</br></br>\n ## {site}(<i>{files_info[site].get('question_cnt')}</i> 문제 진행) </br>"
+        
 
         site_info += "\n | Index | Difficulty |"
         site_info += "\n | ----- | ----- |"
@@ -50,6 +72,7 @@ def make_read_me(files_info):
             if key != "question_cnt":
                 # 폴더명으로부터 난이도 추출
                 # difficulty = re.sub(r'[^0-9]', '', os.path.dirname(value).split("/")[-1])
+                if key == "level": continue
                 difficulty = os.path.dirname(value).split("/")[-2]
                 site_info += f"\n | [{key}]({value}) | {difficulty} |"
 
