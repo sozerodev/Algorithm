@@ -4,7 +4,7 @@
 
 
 ### last update
-- 2023-03-13 15:01:30
+- 2023-03-14 13:57:32
 
 
 </br>
@@ -37,7 +37,7 @@
 
 
 </br></br>
- ## 백준(<i>44</i> 문제 진행, Bronze:29 Silver:13 Gold:2 ) </br>
+ ## 백준(<i>45</i> 문제 진행, Bronze:30 Silver:13 Gold:2 ) </br>
  | Index | Difficulty |
  | ----- | ----- |
  | [20953. 고고학자 예린](./백준/Bronze/20953. 고고학자 예린/고고학자 예린.py) | Bronze |
@@ -59,6 +59,7 @@
  | [11718. 그대로 출력하기](./백준/Bronze/11718. 그대로 출력하기/그대로 출력하기.py) | Bronze |
  | [15596. 정수 N개의 합](./백준/Bronze/15596. 정수 N개의 합/정수 N개의 합.py) | Bronze |
  | [2557. Hello World](./백준/Bronze/2557. Hello World/Hello World.py) | Bronze |
+ | [2440. 별 찍기 － 3](./백준/Bronze/2440. 별 찍기 － 3/별 찍기 － 3.py) | Bronze |
  | [2741. N 찍기](./백준/Bronze/2741. N 찍기/N 찍기.py) | Bronze |
  | [10952. A＋B － 5](./백준/Bronze/10952. A＋B － 5/A＋B － 5.py) | Bronze |
  | [17389. 보너스 점수](./백준/Bronze/17389. 보너스 점수/보너스 점수.py) | Bronze |
