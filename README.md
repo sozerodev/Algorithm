@@ -4,7 +4,7 @@
 
 
 ### last update
-- 2023-03-14 14:27:43
+- 2023-03-15 12:23:51
 
 
 </br>
@@ -37,7 +37,7 @@
 
 
 </br></br>
- ## 백준(<i>46</i> 문제 진행, Bronze:30 Silver:14 Gold:2 ) </br>
+ ## 백준(<i>47</i> 문제 진행, Bronze:30 Silver:15 Gold:2 ) </br>
  | Index | Difficulty |
  | ----- | ----- |
  | [20953. 고고학자 예린](./백준/Bronze/20953. 고고학자 예린/고고학자 예린.py) | Bronze |
@@ -85,6 +85,7 @@
  | [1932. 정수 삼각형](./백준/Silver/1932. 정수 삼각형/정수 삼각형.py) | Silver |
  | [16956. 늑대와 양](./백준/Silver/16956. 늑대와 양/늑대와 양.py) | Silver |
  | [10828. 스택](./백준/Silver/10828. 스택/스택.py) | Silver |
+ | [9012. 괄호](./백준/Silver/9012. 괄호/괄호.py) | Silver |
  | [9037. The candy war](./백준/Silver/9037. The candy war/The candy war.py) | Silver |</br></br> 
 
 </br></br>
