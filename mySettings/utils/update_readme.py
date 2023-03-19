@@ -94,7 +94,7 @@ def make_read_me(files_info):
 
 </br>
 
-### [자료구조와 알고리즘 뿌수기👊](https://www.notion.so/typeerror/e41b98ea18ae4db2b385558f2d018c9f)
+### [History👊](https://typeerror.notion.site/Algorithm-History-f12e001a8c954b2e96994f6e2f4235e0)
 
 </br>
 
