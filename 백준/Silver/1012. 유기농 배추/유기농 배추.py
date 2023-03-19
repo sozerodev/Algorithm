@@ -1,61 +1,67 @@
-import sys
-from sys import stdin
-sys.setrecursionlimit(10000)
-input = stdin.readline
+from collections import deque
+input = open(0).readline
 
-ground, chk = [], []
+# dfs 를 쓸 때 필요함
+# sys.setrecursionlimit(10000)
 
+dx, dy = [1, 0, -1, 0], [0, 1, 0, -1]
 
 def dfs(x, y):
-    # 방향벡터!
-    dx, dy = [1, 0, -1, 0], [0, 1, 0, -1]
-    global ground, chk
-
-    if (chk[x][y]):
-        return
+    global graph, visited
     
-    chk[x][y] = 1
-
+    if visited[x][y]: return
+    
+    visited[x][y] = 1
+    
     for i in range(4):
         xx, yy = x + dx[i], y + dy[i]
-        if ground[xx][yy] == 0 or chk[xx][yy]:
+        if graph[xx][yy] == 0 or visited[xx][yy]:
             continue
-
+            
         dfs(xx, yy)
-
-
-
-
-
-def solution():
-    global ground, chk
-
-    M, N, K = map(int, input().split())
-
-    # 상하좌우를 각각 한칸씩 더 채워주자. 값이 비어있으면 곤란하니까. 
-    ground = [ [0] * (50 + 2) for _ in range (50 + 2)]
-    chk = [ [0] * (50 + 2) for _ in range (50 + 2)] 
-
-    # 배추의 위치 
-    for _ in range(K):
-        X, Y = map(int, input().split())
-        ground[Y + 1][X + 1] = 1
-
-    ans = 0
-    for i in range(1, N + 1):
-        for j in range(1, M + 1):
-            if ground[i][j] == 0 or chk[i][j]:
-                continue
-                 
-            dfs(i, j)
-            ans += 1
- 
-    print(ans)
-
-
-    
-if __name__ == '__main__': 
-    T = int(input())
-    for _ in range(T):
-        solution()
         
+        
+def bfs(x, y):
+    global graph, visited, N, M
+    
+    q = deque([(x, y)])
+    
+    while q:
+        x, y = q.pop()
+        
+        for i in range(4):
+            nx, ny = x + dx[i], y + dy[i]
+            
+            if 0<= nx <N and 0<= ny < M and graph[nx][ny] == 1 and visited[nx][ny] != 1:
+                q.append((nx, ny))
+                visited[nx][ny] = 1
+    return 1
+                
+
+if __name__ == '__main__':
+    T = int(input())
+    
+    for _ in range(T):
+        M, N, K = map(int, input().split())
+        
+        graph = [[0]*(M) for _ in range (N)]
+        visited = [[0]*(M) for _ in range(N)]
+        ans = 0
+        
+        for _ in range (K):
+            x, y = map(int, input().split())
+            graph[y][x] = 1
+    
+
+        for i in range(0, M):
+            for j in range(0, N):
+                if graph[j][i] == 0 or visited[j][i]:
+                    continue
+                
+                # dfs(i, j)
+                # ans += 1
+                
+                ans += bfs(j, i)
+                
+        print(ans)
+    
