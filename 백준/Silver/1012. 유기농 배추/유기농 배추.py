@@ -9,16 +9,17 @@ dx, dy = [1, 0, -1, 0], [0, 1, 0, -1]
 def dfs(x, y):
     global graph, visited
     
-    if visited[x][y]: return
+    if not (0 <= x <N and 0 <= y < M) or visited[x][y]: return
     
     visited[x][y] = 1
     
     for i in range(4):
-        xx, yy = x + dx[i], y + dy[i]
-        if graph[xx][yy] == 0 or visited[xx][yy]:
+        nx, ny = x + dx[i], y + dy[i]
+        if not (0 <= nx <N and 0 <= ny < M): continue
+        if graph[nx][ny] == 0 or visited[nx][ny]:
             continue
             
-        dfs(xx, yy)
+        dfs(nx, ny)
         
         
 def bfs(x, y):
@@ -58,10 +59,12 @@ if __name__ == '__main__':
                 if graph[j][i] == 0 or visited[j][i]:
                     continue
                 
-                # dfs(i, j)
+                # dfs(j, i)
                 # ans += 1
                 
                 ans += bfs(j, i)
                 
         print(ans)
+
+    
     
