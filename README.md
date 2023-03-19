@@ -4,7 +4,7 @@
 
 
 ### last update
-- 2023-03-19 12:02:52
+- 2023-03-19 13:13:34
 
 
 </br>
@@ -37,7 +37,7 @@
 
 
 </br></br>
- ## 백준(<i>50</i> 문제 진행, Bronze:31 Silver:17 Gold:2 ) </br>
+ ## 백준(<i>51</i> 문제 진행, Bronze:32 Silver:17 Gold:2 ) </br>
  | Index | Difficulty |
  | ----- | ----- |
  | [2742. 기찍 N](./백준/Bronze/2742. 기찍 N/기찍 N.py) | Bronze |
@@ -65,6 +65,7 @@
  | [2445. 별 찍기 － 8](./백준/Bronze/2445. 별 찍기 － 8/별 찍기 － 8.py) | Bronze |
  | [2557. Hello World](./백준/Bronze/2557. Hello World/Hello World.py) | Bronze |
  | [11721. 열 개씩 끊어 출력하기](./백준/Bronze/11721. 열 개씩 끊어 출력하기/열 개씩 끊어 출력하기.py) | Bronze |
+ | [27522. 카트라이더： 드리프트](./백준/Bronze/27522. 카트라이더： 드리프트/카트라이더： 드리프트.py) | Bronze |
  | [2741. N 찍기](./백준/Bronze/2741. N 찍기/N 찍기.py) | Bronze |
  | [2480. 주사위 세개](./백준/Bronze/2480. 주사위 세개/주사위 세개.py) | Bronze |
  | [20499. Darius님 한타 안 함？](./백준/Bronze/20499. Darius님 한타 안 함？/Darius님 한타 안 함？.py) | Bronze |
