@@ -38,6 +38,13 @@ def read_files_info():
             for level in ["Bronze", "Silver","Gold"]:
                 files_info[directory]["level"][level] = len(os.listdir(f"./{directory}/{level}"))
 
+        elif directory == "프로그래머스":
+            for level in ["lv0", "lv1", "lv2", "lv3", "lv4", "lv5"]:
+                try:
+                    files_info[directory]["level"][level] = len(os.listdir(f"./{directory}/{level}"))
+                except:
+                    pass
+
     return files_info
   
 
@@ -57,7 +64,7 @@ def make_read_me(files_info):
     # for site in files_info.keys(): # 이거나 밑에나 둘다 같지만 그냥 순서를 내맘대로 해주고싶어서 밑에껄로 바꿈
     for site in SITE:
         if len(files_info[site].get('level')) > 0:
-            site_info += f"</br></br>\n ## {site}(<i>{files_info[site].get('question_cnt')}</i> 문제 진행, "
+            site_info += f"</br></br>\n ## {site}(<i>{files_info[site].get('question_cnt')}</i> 문제 진행, </br>"
             
             for level in files_info[site].get('level').keys():
                 site_info += f"{level}:{files_info[site].get('level').get(level)} "
