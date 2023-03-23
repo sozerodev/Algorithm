@@ -4,7 +4,7 @@
 
 
 ### last update
-- 2023-03-23 18:18:58
+- 2023-03-23 18:32:40
 
 
 </br>
@@ -37,7 +37,7 @@
 
 
 </br></br>
- ## 백준(<i>52</i> 문제 진행, Bronze:33 Silver:17 Gold:2 ) </br>
+ ## 백준(<i>52</i> 문제 진행, </br>Bronze:33 Silver:17 Gold:2 ) </br>
  | Index | Difficulty |
  | ----- | ----- |
  | [2742. 기찍 N](./백준/Bronze/2742. 기찍 N/기찍 N.py) | Bronze |
@@ -94,7 +94,7 @@
  | [1756. 피자 굽기](./백준/Gold/1756. 피자 굽기/피자 굽기.py) | Gold |</br></br> 
 
 </br></br>
- ## 프로그래머스(<i>5</i> 문제 진행) </br>
+ ## 프로그래머스(<i>5</i> 문제 진행, </br>lv0:1 lv1:3 lv2:1 ) </br>
  | Index | Difficulty |
  | ----- | ----- |
  | [1845. 폰켓몬](./프로그래머스/lv1/1845. 폰켓몬/폰켓몬.py) | lv1 |
@@ -104,7 +104,7 @@
  | [120898. 편지](./프로그래머스/lv0/120898. 편지/편지.py) | lv0 |</br></br> 
 
 </br></br>
- ## LeetCode(<i>5</i> 문제 진행, Easy:5 ) </br>
+ ## LeetCode(<i>5</i> 문제 진행, </br>Easy:5 ) </br>
  | Index | Difficulty |
  | ----- | ----- |
  | [0191-number-of-1-bits](./LeetCode/Easy/0191-number-of-1-bits/0191-number-of-1-bits.py) | Easy |
