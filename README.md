@@ -4,7 +4,7 @@
 
 
 ### last update
-- 2023-03-23 18:32:40
+- 2023-03-24 15:03:32
 
 
 </br>
@@ -37,7 +37,7 @@
 
 
 </br></br>
- ## 백준(<i>52</i> 문제 진행, </br>Bronze:33 Silver:17 Gold:2 ) </br>
+ ## 백준(<i>53</i> 문제 진행, </br>Bronze:34 Silver:17 Gold:2 ) </br>
  | Index | Difficulty |
  | ----- | ----- |
  | [2742. 기찍 N](./백준/Bronze/2742. 기찍 N/기찍 N.py) | Bronze |
@@ -62,6 +62,7 @@
  | [20953. 고고학자 예린](./백준/Bronze/20953. 고고학자 예린/고고학자 예린.py) | Bronze |
  | [2440. 별 찍기 － 3](./백준/Bronze/2440. 별 찍기 － 3/별 찍기 － 3.py) | Bronze |
  | [17224. APC는 왜 서브태스크 대회가 되었을까？](./백준/Bronze/17224. APC는 왜 서브태스크 대회가 되었을까？/APC는 왜 서브태스크 대회가 되었을까？.py) | Bronze |
+ | [23881. 알고리즘 수업 － 선택 정렬 1](./백준/Bronze/23881. 알고리즘 수업 － 선택 정렬 1/알고리즘 수업 － 선택 정렬 1.py) | Bronze |
  | [16769. Mixing Milk](./백준/Bronze/16769. Mixing Milk/Mixing Milk.py) | Bronze |
  | [2445. 별 찍기 － 8](./백준/Bronze/2445. 별 찍기 － 8/별 찍기 － 8.py) | Bronze |
  | [2557. Hello World](./백준/Bronze/2557. Hello World/Hello World.py) | Bronze |
