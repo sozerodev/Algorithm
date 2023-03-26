@@ -1,10 +1,11 @@
 
 
+[![Python application](https://github.com/sozerodev/Algorithm/actions/workflows/python-app.yml/badge.svg)](https://github.com/sozerodev/Algorithm/actions/workflows/python-app.yml)
 # PS (Problem Solving) 키우기
 
 
 ### last update
-- 2023-03-24 15:49:23
+- 2023-03-26 13:53:37
 
 
 </br>
