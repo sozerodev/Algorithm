@@ -92,6 +92,7 @@ def make_read_me(files_info):
 
     return f"""
 
+[![Python application](https://github.com/sozerodev/Algorithm/actions/workflows/python-app.yml/badge.svg)](https://github.com/sozerodev/Algorithm/actions/workflows/python-app.yml)
 # PS (Problem Solving) 키우기
 
 
